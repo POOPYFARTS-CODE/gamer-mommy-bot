@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/82eb69e53c.js" crossorigin="anonymous"></script>
-    <style>
+<!--     <style>
         body{
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         }
@@ -25,7 +25,7 @@
         button:hover{
             cursor: pointer;
         }
-    </style>
+    </style> -->
 </head>
 <body>
     <h1>Official Bot Of Gamer Mommy Server!</h1>
@@ -37,9 +37,9 @@
     <h1>Subscribe To Gamer Mummy!</h1>
     <button onclick="redirect()"><i class="fab fa-youtube"></i>Subscribe</button>
 </body>
-<script>
+<!-- <script>
     function redirect() {
         window.open('https://www.youtube.com/channel/UCDLYqESVrBFdTDE8O_Z4Ysg','_blank')
     }
-</script>
+</script> -->
 </html>y!
